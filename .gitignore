@@ -1,0 +1,11 @@
+# Raw dataset is never committed (see data/README.md for how to obtain it)
+data/raw/
+*.pkl
+
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+.DS_Store
